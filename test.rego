@@ -7,4 +7,6 @@ allow {
     data.value2 = input.value2
 }
 
-show_data := data
+initial_data := data.initial_data
+value1 := data.value1
+value2 := data.value2
